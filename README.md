@@ -115,4 +115,4 @@ Customer-Churn-Analysis/
 ## Project Overview
 ## Dashboard Preview
 
-![Dashboard](https://github.com/Mukkera-Sagar-Reddy/customer-churn-prediction/blob/main/customer_churn_analysis/images/customer_churn_analysis_image.png?raw=true)
+![Dashboard](customer_churn_analysis/images/customer_churn_analysis_image.png)

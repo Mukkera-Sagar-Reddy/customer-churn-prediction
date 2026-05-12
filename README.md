@@ -98,6 +98,11 @@ The Power BI dashboard includes:
 - Business Insight Panels
 
 ---
+## Dashboard Preview
+
+![Dashboard Preview](customer_churn_analysis/images/customer_churn_analysis_image.png)
+
+---
 
 ## Repository Structure
 
